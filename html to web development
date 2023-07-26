@@ -1,0 +1,87 @@
+<!Doctype.html>
+ <html>
+   <hrad>
+        <title>WEB DEVELOPER</TITLE>
+   <style>
+      #class1{
+         background-color:TOMATO;
+         color:white;
+         padding:10px;
+      }
+      #class2{
+           background-color:#F7DC6F;
+           color:black;
+           padding:10;
+           width:50%;
+           margin:0 auto;
+      }
+      #class3{
+           background-color:#EC7063;
+           color:black;
+           padding:10;
+           width:50%;
+           margin:0 auto;
+      } 
+      #class4{
+           background-color:#7DCEA0;
+           color:black;
+           padding:10px;
+           width:50%;
+           margin:0 auto;
+      }
+   </style>
+ </head>
+   <body>
+<div>
+      <h2 align="center"><font size="6" color="black">WEB DEVELOPMENT</font><h2>
+   <div>
+      <hr>
+      <marquee bgcolor="yellow">
+           <font size="3" color="green">Web development, also known as website development, refers to the tasks associated with creating, building, 
+           and maintaining websites and web applications that run online on a browser. It may, however, also include web design, web programming, and database management.
+           </font></marquee>
+   </div>
+    <pre>
+        <h4 align="center"><class id="class1">HTML, JAVA,  PYTHON, C++, C#, PHP, SQL, GO., JAVASCRIPT, C,RUBY, CSS, .NET DATA,  REBOL</div> </h4>
+    </pre>
+         <h2 align="center">Web Development Roadmaps</h2>
+  <span>
+  <div>
+        <h2 align="center"><div id ="class2">HTML</div></h2>
+  </span>
+       <h4 align="center"> 1. Create your first web page </h4>
+  <br>
+       <p align="center">The first thing you have to learn, is HTML, which is the standard markup language for creating web pages.</p>
+       <center><a href="https://www.w3schools.com/html/html_intro.asp "target="blank">html</a></center>
+  </div>
+  <div>
+       <h2 align="center"><div id ="class3">CSS</div></h2>
+
+       <h4 align="center">2. Style your web page</h4>
+    <br>
+       <p align="center">The next step is to learn CSS, to set the layout of your web page with beautiful colors, fonts, and much more.</p>
+        <center><a href="https://www.w3schools.com/css/css_intro.asp"target="blank">css</a></center><br>
+  </div>
+  <div>
+       <h2 align="center"<div id ="class4">JAVASCRIPT</div></h2>
+
+       <h4 align="center"> 3. Make your web page interactive</h4>
+    <br>
+       <p align="center">After studying HTML and CSS, you should learn JavaScript to create dynamic and interactive web pages for your users.</p>
+
+        <center><a href="https://www.w3schools.com/js/js_intro.asp "target="blank">
+          javascript</a></center>
+   </div>
+    <br>
+  <div>
+    <a href="https://www.w3schools.com/html/" target="blank"><img src="C:\Users\sriva\OneDrive\Desktop\project html\html logo.png" width="60"></a>
+
+    <a href="https://www.w3schools.com/css/" target="blank"><img src="C:\Users\sriva\OneDrive\Desktop\project html\css logo.png" width="43"></a>
+
+    <a href="https://www.w3schools.com/css/" target="blank"><img src="C:\Users\sriva\OneDrive\Desktop\project html\javascript logo.png" width="57"></a>
+  </div>
+</div>
+
+
+</body>
+</html>
